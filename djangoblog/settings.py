@@ -25,7 +25,7 @@ SECRET_KEY = '(2mq@97pc!+!@6qpvn#x)ey!$jz0sey_+n^!ne^@_y5o_r2r$-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['fierce-meadow-21094.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['farhanatesting.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
